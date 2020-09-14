@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="45" passed="45">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82756" started-at="2020-09-14T19:05:18Z" finished-at="2020-09-14T19:06:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="82756" started-at="2020-09-14T19:05:18Z" finished-at="2020-09-14T19:06:41Z">
+      <class name="com.qa.Challange.DynamicLoading.DynamicLoadingTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicLoading.DynamicLoadingTest@5db45159]" name="launch" is-config="true" duration-ms="1143" started-at="2020-09-14T19:06:31Z" finished-at="2020-09-14T19:06:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicallyLoadedElement()[pri:0, instance:com.qa.Challange.DynamicLoading.DynamicLoadingTest@5db45159]" name="verifyDynamicallyLoadedElement" duration-ms="5196" started-at="2020-09-14T19:06:32Z" finished-at="2020-09-14T19:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicallyLoadedElement -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicLoading.DynamicLoadingTest@5db45159]" name="tearDwn" is-config="true" duration-ms="77" started-at="2020-09-14T19:06:37Z" finished-at="2020-09-14T19:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.DynamicLoading.DynamicLoadingTest -->
+      <class name="com.qa.Challange.JSerror.JavaScriptErrorTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.JSerror.JavaScriptErrorTest@2b6856dd]" name="launch" is-config="true" duration-ms="1103" started-at="2020-09-14T19:06:30Z" finished-at="2020-09-14T19:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyJsError()[pri:0, instance:com.qa.Challange.JSerror.JavaScriptErrorTest@2b6856dd]" name="verifyJsError" duration-ms="4" started-at="2020-09-14T19:06:31Z" finished-at="2020-09-14T19:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJsError -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.JSerror.JavaScriptErrorTest@2b6856dd]" name="tearDwn" is-config="true" duration-ms="74" started-at="2020-09-14T19:06:31Z" finished-at="2020-09-14T19:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.JSerror.JavaScriptErrorTest -->
+      <class name="com.qa.Challange.JSalerts.JavaScriptAlertsTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.JSalerts.JavaScriptAlertsTest@13acb0d1]" name="launch" is-config="true" duration-ms="1272" started-at="2020-09-14T19:06:18Z" finished-at="2020-09-14T19:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="validateJspromptField()[pri:0, instance:com.qa.Challange.JSalerts.JavaScriptAlertsTest@13acb0d1]" name="validateJspromptField" duration-ms="88" started-at="2020-09-14T19:06:20Z" finished-at="2020-09-14T19:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateJspromptField -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.JSalerts.JavaScriptAlertsTest@13acb0d1]" name="tearDwn" is-config="true" duration-ms="74" started-at="2020-09-14T19:06:20Z" finished-at="2020-09-14T19:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.JSalerts.JavaScriptAlertsTest@13acb0d1]" name="launch" is-config="true" duration-ms="1159" started-at="2020-09-14T19:06:20Z" finished-at="2020-09-14T19:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyConformationOfJsAlert()[pri:0, instance:com.qa.Challange.JSalerts.JavaScriptAlertsTest@13acb0d1]" name="verifyConformationOfJsAlert" duration-ms="255" started-at="2020-09-14T19:06:21Z" finished-at="2020-09-14T19:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConformationOfJsAlert -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.JSalerts.JavaScriptAlertsTest@13acb0d1]" name="tearDwn" is-config="true" duration-ms="76" started-at="2020-09-14T19:06:21Z" finished-at="2020-09-14T19:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.JSalerts.JavaScriptAlertsTest@13acb0d1]" name="launch" is-config="true" duration-ms="1234" started-at="2020-09-14T19:06:21Z" finished-at="2020-09-14T19:06:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyJsAlertDismiss()[pri:0, instance:com.qa.Challange.JSalerts.JavaScriptAlertsTest@13acb0d1]" name="verifyJsAlertDismiss" duration-ms="136" started-at="2020-09-14T19:06:22Z" finished-at="2020-09-14T19:06:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJsAlertDismiss -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.JSalerts.JavaScriptAlertsTest@13acb0d1]" name="tearDwn" is-config="true" duration-ms="77" started-at="2020-09-14T19:06:23Z" finished-at="2020-09-14T19:06:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.JSalerts.JavaScriptAlertsTest -->
+      <class name="com.qa.Challange.DynamicControls.DynamicControlsTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicControls.DynamicControlsTest@3b2cf7ab]" name="launch" is-config="true" duration-ms="1253" started-at="2020-09-14T19:05:23Z" finished-at="2020-09-14T19:05:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicControlsEnable_Disable()[pri:0, instance:com.qa.Challange.DynamicControls.DynamicControlsTest@3b2cf7ab]" name="verifyDynamicControlsEnable_Disable" duration-ms="6372" started-at="2020-09-14T19:05:24Z" finished-at="2020-09-14T19:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicControlsEnable_Disable -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicControls.DynamicControlsTest@3b2cf7ab]" name="tearDwn" is-config="true" duration-ms="76" started-at="2020-09-14T19:05:31Z" finished-at="2020-09-14T19:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicControls.DynamicControlsTest@3b2cf7ab]" name="launch" is-config="true" duration-ms="1650" started-at="2020-09-14T19:05:31Z" finished-at="2020-09-14T19:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicControlsRemove_Add()[pri:0, instance:com.qa.Challange.DynamicControls.DynamicControlsTest@3b2cf7ab]" name="verifyDynamicControlsRemove_Add" duration-ms="6314" started-at="2020-09-14T19:05:32Z" finished-at="2020-09-14T19:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicControlsRemove_Add -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicControls.DynamicControlsTest@3b2cf7ab]" name="tearDwn" is-config="true" duration-ms="78" started-at="2020-09-14T19:05:39Z" finished-at="2020-09-14T19:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.DynamicControls.DynamicControlsTest -->
+      <class name="com.qa.Challange.DropDown.DropDownTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DropDown.DropDownTest@37e547da]" name="launch" is-config="true" duration-ms="1293" started-at="2020-09-14T19:06:26Z" finished-at="2020-09-14T19:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="handleDropDwnOption1()[pri:0, instance:com.qa.Challange.DropDown.DropDownTest@37e547da]" name="handleDropDwnOption1" duration-ms="663" started-at="2020-09-14T19:06:27Z" finished-at="2020-09-14T19:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleDropDwnOption1 -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DropDown.DropDownTest@37e547da]" name="tearDwn" is-config="true" duration-ms="76" started-at="2020-09-14T19:06:28Z" finished-at="2020-09-14T19:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DropDown.DropDownTest@37e547da]" name="launch" is-config="true" duration-ms="1237" started-at="2020-09-14T19:06:28Z" finished-at="2020-09-14T19:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="handleDropDwnOption2()[pri:0, instance:com.qa.Challange.DropDown.DropDownTest@37e547da]" name="handleDropDwnOption2" duration-ms="633" started-at="2020-09-14T19:06:29Z" finished-at="2020-09-14T19:06:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleDropDwnOption2 -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DropDown.DropDownTest@37e547da]" name="tearDwn" is-config="true" duration-ms="80" started-at="2020-09-14T19:06:30Z" finished-at="2020-09-14T19:06:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.DropDown.DropDownTest -->
+      <class name="com.qa.Challange.FileUpLoader.FileUpLoaderTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.FileUpLoader.FileUpLoaderTest@6107227e]" name="launch" is-config="true" duration-ms="1574" started-at="2020-09-14T19:06:38Z" finished-at="2020-09-14T19:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyFileUpload()[pri:0, instance:com.qa.Challange.FileUpLoader.FileUpLoaderTest@6107227e]" name="verifyFileUpload" duration-ms="265" started-at="2020-09-14T19:06:39Z" finished-at="2020-09-14T19:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFileUpload -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.FileUpLoader.FileUpLoaderTest@6107227e]" name="tearDwn" is-config="true" duration-ms="77" started-at="2020-09-14T19:06:39Z" finished-at="2020-09-14T19:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.FileUpLoader.FileUpLoaderTest -->
+      <class name="com.qa.Challange.Context_Menu.ContextMenuTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.Context_Menu.ContextMenuTest@7c417213]" name="launch" is-config="true" duration-ms="1143" started-at="2020-09-14T19:06:39Z" finished-at="2020-09-14T19:06:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="validateContextMenu()[pri:0, instance:com.qa.Challange.Context_Menu.ContextMenuTest@7c417213]" name="validateContextMenu" duration-ms="163" started-at="2020-09-14T19:06:41Z" finished-at="2020-09-14T19:06:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContextMenu -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.Context_Menu.ContextMenuTest@7c417213]" name="tearDwn" is-config="true" duration-ms="74" started-at="2020-09-14T19:06:41Z" finished-at="2020-09-14T19:06:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.Context_Menu.ContextMenuTest -->
+      <class name="com.qa.Challange.DragAndDrop.DragAndDropTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DragAndDrop.DragAndDropTest@f2f2cc1]" name="launch" is-config="true" duration-ms="2029" started-at="2020-09-14T19:05:18Z" finished-at="2020-09-14T19:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="validateDragAndDrop()[pri:0, instance:com.qa.Challange.DragAndDrop.DragAndDropTest@f2f2cc1]" name="validateDragAndDrop" duration-ms="282" started-at="2020-09-14T19:05:20Z" finished-at="2020-09-14T19:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDragAndDrop -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DragAndDrop.DragAndDropTest@f2f2cc1]" name="tearDwn" is-config="true" duration-ms="75" started-at="2020-09-14T19:05:20Z" finished-at="2020-09-14T19:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.DragAndDrop.DragAndDropTest -->
+      <class name="com.qa.Challang.NewWindow.NewWindowTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challang.NewWindow.NewWindowTest@2aa5fe93]" name="launch" is-config="true" duration-ms="1626" started-at="2020-09-14T19:05:39Z" finished-at="2020-09-14T19:05:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyNewWindow()[pri:0, instance:com.qa.Challang.NewWindow.NewWindowTest@2aa5fe93]" name="verifyNewWindow" duration-ms="130" started-at="2020-09-14T19:05:40Z" finished-at="2020-09-14T19:05:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewWindow -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challang.NewWindow.NewWindowTest@2aa5fe93]" name="tearDwn" is-config="true" duration-ms="75" started-at="2020-09-14T19:05:41Z" finished-at="2020-09-14T19:05:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challang.NewWindow.NewWindowTest -->
+      <class name="com.qa.Challange.Login.LoginTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.Login.LoginTest@3e3047e6]" name="launch" is-config="true" duration-ms="1241" started-at="2020-09-14T19:06:23Z" finished-at="2020-09-14T19:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="validateHappyPathLogin()[pri:0, instance:com.qa.Challange.Login.LoginTest@3e3047e6]" name="validateHappyPathLogin" duration-ms="288" started-at="2020-09-14T19:06:24Z" finished-at="2020-09-14T19:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHappyPathLogin -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.Login.LoginTest@3e3047e6]" name="tearDwn" is-config="true" duration-ms="75" started-at="2020-09-14T19:06:24Z" finished-at="2020-09-14T19:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.Login.LoginTest@3e3047e6]" name="launch" is-config="true" duration-ms="1239" started-at="2020-09-14T19:06:24Z" finished-at="2020-09-14T19:06:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="validateUnHappyPathLogin()[pri:0, instance:com.qa.Challange.Login.LoginTest@3e3047e6]" name="validateUnHappyPathLogin" duration-ms="310" started-at="2020-09-14T19:06:26Z" finished-at="2020-09-14T19:06:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUnHappyPathLogin -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.Login.LoginTest@3e3047e6]" name="tearDwn" is-config="true" duration-ms="79" started-at="2020-09-14T19:06:26Z" finished-at="2020-09-14T19:06:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.Login.LoginTest -->
+      <class name="com.qa.Challange.IFrame.IFrameTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.IFrame.IFrameTest@5c1a8622]" name="launch" is-config="true" duration-ms="1377" started-at="2020-09-14T19:05:41Z" finished-at="2020-09-14T19:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyIFrame()[pri:0, instance:com.qa.Challange.IFrame.IFrameTest@5c1a8622]" name="verifyIFrame" duration-ms="198" started-at="2020-09-14T19:05:42Z" finished-at="2020-09-14T19:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIFrame -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.IFrame.IFrameTest@5c1a8622]" name="tearDwn" is-config="true" duration-ms="77" started-at="2020-09-14T19:05:42Z" finished-at="2020-09-14T19:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.IFrame.IFrameTest -->
+      <class name="com.qa.Challange.CheckBoxes.CheckAndUnCheckBoxesTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.CheckBoxes.CheckAndUnCheckBoxesTest@3a079870]" name="launch" is-config="true" duration-ms="1163" started-at="2020-09-14T19:05:20Z" finished-at="2020-09-14T19:05:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="checkBox()[pri:0, instance:com.qa.Challange.CheckBoxes.CheckAndUnCheckBoxesTest@3a079870]" name="checkBox" duration-ms="64" started-at="2020-09-14T19:05:22Z" finished-at="2020-09-14T19:05:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBox -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.CheckBoxes.CheckAndUnCheckBoxesTest@3a079870]" name="tearDwn" is-config="true" duration-ms="79" started-at="2020-09-14T19:05:22Z" finished-at="2020-09-14T19:05:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.CheckBoxes.CheckAndUnCheckBoxesTest@3a079870]" name="launch" is-config="true" duration-ms="1190" started-at="2020-09-14T19:05:22Z" finished-at="2020-09-14T19:05:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="checkBox2()[pri:0, instance:com.qa.Challange.CheckBoxes.CheckAndUnCheckBoxesTest@3a079870]" name="checkBox2" duration-ms="20" started-at="2020-09-14T19:05:23Z" finished-at="2020-09-14T19:05:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBox2 -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.CheckBoxes.CheckAndUnCheckBoxesTest@3a079870]" name="tearDwn" is-config="true" duration-ms="74" started-at="2020-09-14T19:05:23Z" finished-at="2020-09-14T19:05:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.CheckBoxes.CheckAndUnCheckBoxesTest -->
+      <class name="com.qa.Challange.Hovers.MouseHoversTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.Hovers.MouseHoversTest@b62fe6d]" name="launch" is-config="true" duration-ms="1168" started-at="2020-09-14T19:06:15Z" finished-at="2020-09-14T19:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyUserOneProfile()[pri:0, instance:com.qa.Challange.Hovers.MouseHoversTest@b62fe6d]" name="verifyUserOneProfile" duration-ms="211" started-at="2020-09-14T19:06:17Z" finished-at="2020-09-14T19:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserOneProfile -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.Hovers.MouseHoversTest@b62fe6d]" name="tearDwn" is-config="true" duration-ms="77" started-at="2020-09-14T19:06:17Z" finished-at="2020-09-14T19:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.Hovers.MouseHoversTest@b62fe6d]" name="launch" is-config="true" duration-ms="1210" started-at="2020-09-14T19:06:17Z" finished-at="2020-09-14T19:06:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyUserThreeProfile()[pri:0, instance:com.qa.Challange.Hovers.MouseHoversTest@b62fe6d]" name="verifyUserThreeProfile" duration-ms="235" started-at="2020-09-14T19:06:18Z" finished-at="2020-09-14T19:06:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserThreeProfile -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.Hovers.MouseHoversTest@b62fe6d]" name="tearDwn" is-config="true" duration-ms="81" started-at="2020-09-14T19:06:18Z" finished-at="2020-09-14T19:06:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.Hovers.MouseHoversTest -->
+      <class name="com.qa.Challange.FloatingMenu.FloatingMenuTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="launch" is-config="true" duration-ms="1166" started-at="2020-09-14T19:06:08Z" finished-at="2020-09-14T19:06:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="selectContact()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="selectContact" duration-ms="89" started-at="2020-09-14T19:06:10Z" finished-at="2020-09-14T19:06:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectContact -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="tearDwn" is-config="true" duration-ms="75" started-at="2020-09-14T19:06:10Z" finished-at="2020-09-14T19:06:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="launch" is-config="true" duration-ms="1218" started-at="2020-09-14T19:06:10Z" finished-at="2020-09-14T19:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="selectHome()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="selectHome" duration-ms="86" started-at="2020-09-14T19:06:11Z" finished-at="2020-09-14T19:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectHome -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="tearDwn" is-config="true" duration-ms="79" started-at="2020-09-14T19:06:11Z" finished-at="2020-09-14T19:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="launch" is-config="true" duration-ms="1153" started-at="2020-09-14T19:06:11Z" finished-at="2020-09-14T19:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="selectNews()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="selectNews" duration-ms="85" started-at="2020-09-14T19:06:12Z" finished-at="2020-09-14T19:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectNews -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="tearDwn" is-config="true" duration-ms="75" started-at="2020-09-14T19:06:12Z" finished-at="2020-09-14T19:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="launch" is-config="true" duration-ms="1204" started-at="2020-09-14T19:06:12Z" finished-at="2020-09-14T19:06:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="selectabout()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="selectabout" duration-ms="85" started-at="2020-09-14T19:06:14Z" finished-at="2020-09-14T19:06:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectabout -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.FloatingMenu.FloatingMenuTest@6156496]" name="tearDwn" is-config="true" duration-ms="76" started-at="2020-09-14T19:06:14Z" finished-at="2020-09-14T19:06:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.FloatingMenu.FloatingMenuTest -->
+      <class name="com.qa.Challange.DynamicContent.DynamicContentTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1276" started-at="2020-09-14T19:05:42Z" finished-at="2020-09-14T19:05:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="21" started-at="2020-09-14T19:05:44Z" finished-at="2020-09-14T19:05:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="80" started-at="2020-09-14T19:05:44Z" finished-at="2020-09-14T19:05:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1263" started-at="2020-09-14T19:05:44Z" finished-at="2020-09-14T19:05:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="21" started-at="2020-09-14T19:05:45Z" finished-at="2020-09-14T19:05:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="77" started-at="2020-09-14T19:05:45Z" finished-at="2020-09-14T19:05:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1190" started-at="2020-09-14T19:05:45Z" finished-at="2020-09-14T19:05:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="24" started-at="2020-09-14T19:05:46Z" finished-at="2020-09-14T19:05:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="76" started-at="2020-09-14T19:05:46Z" finished-at="2020-09-14T19:05:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1163" started-at="2020-09-14T19:05:46Z" finished-at="2020-09-14T19:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="19" started-at="2020-09-14T19:05:48Z" finished-at="2020-09-14T19:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="77" started-at="2020-09-14T19:05:48Z" finished-at="2020-09-14T19:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1269" started-at="2020-09-14T19:05:48Z" finished-at="2020-09-14T19:05:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="20" started-at="2020-09-14T19:05:49Z" finished-at="2020-09-14T19:05:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="75" started-at="2020-09-14T19:05:49Z" finished-at="2020-09-14T19:05:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1203" started-at="2020-09-14T19:05:49Z" finished-at="2020-09-14T19:05:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="21" started-at="2020-09-14T19:05:50Z" finished-at="2020-09-14T19:05:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="76" started-at="2020-09-14T19:05:50Z" finished-at="2020-09-14T19:05:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1158" started-at="2020-09-14T19:05:50Z" finished-at="2020-09-14T19:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="21" started-at="2020-09-14T19:05:51Z" finished-at="2020-09-14T19:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="75" started-at="2020-09-14T19:05:51Z" finished-at="2020-09-14T19:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1144" started-at="2020-09-14T19:05:52Z" finished-at="2020-09-14T19:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="22" started-at="2020-09-14T19:05:53Z" finished-at="2020-09-14T19:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="78" started-at="2020-09-14T19:05:53Z" finished-at="2020-09-14T19:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1213" started-at="2020-09-14T19:05:53Z" finished-at="2020-09-14T19:05:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="22" started-at="2020-09-14T19:05:54Z" finished-at="2020-09-14T19:05:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="79" started-at="2020-09-14T19:05:54Z" finished-at="2020-09-14T19:05:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1227" started-at="2020-09-14T19:05:54Z" finished-at="2020-09-14T19:05:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="19" started-at="2020-09-14T19:05:55Z" finished-at="2020-09-14T19:05:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="75" started-at="2020-09-14T19:05:55Z" finished-at="2020-09-14T19:05:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1162" started-at="2020-09-14T19:05:55Z" finished-at="2020-09-14T19:05:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="21" started-at="2020-09-14T19:05:57Z" finished-at="2020-09-14T19:05:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="77" started-at="2020-09-14T19:05:57Z" finished-at="2020-09-14T19:05:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1235" started-at="2020-09-14T19:05:57Z" finished-at="2020-09-14T19:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="19" started-at="2020-09-14T19:05:58Z" finished-at="2020-09-14T19:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="78" started-at="2020-09-14T19:05:58Z" finished-at="2020-09-14T19:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1208" started-at="2020-09-14T19:05:58Z" finished-at="2020-09-14T19:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="19" started-at="2020-09-14T19:05:59Z" finished-at="2020-09-14T19:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="83" started-at="2020-09-14T19:05:59Z" finished-at="2020-09-14T19:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1190" started-at="2020-09-14T19:05:59Z" finished-at="2020-09-14T19:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="21" started-at="2020-09-14T19:06:01Z" finished-at="2020-09-14T19:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="78" started-at="2020-09-14T19:06:01Z" finished-at="2020-09-14T19:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1189" started-at="2020-09-14T19:06:01Z" finished-at="2020-09-14T19:06:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="19" started-at="2020-09-14T19:06:02Z" finished-at="2020-09-14T19:06:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="77" started-at="2020-09-14T19:06:02Z" finished-at="2020-09-14T19:06:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1181" started-at="2020-09-14T19:06:02Z" finished-at="2020-09-14T19:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="19" started-at="2020-09-14T19:06:03Z" finished-at="2020-09-14T19:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="78" started-at="2020-09-14T19:06:03Z" finished-at="2020-09-14T19:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1268" started-at="2020-09-14T19:06:03Z" finished-at="2020-09-14T19:06:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="21" started-at="2020-09-14T19:06:04Z" finished-at="2020-09-14T19:06:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="79" started-at="2020-09-14T19:06:04Z" finished-at="2020-09-14T19:06:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1185" started-at="2020-09-14T19:06:05Z" finished-at="2020-09-14T19:06:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="23" started-at="2020-09-14T19:06:06Z" finished-at="2020-09-14T19:06:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="80" started-at="2020-09-14T19:06:06Z" finished-at="2020-09-14T19:06:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1230" started-at="2020-09-14T19:06:06Z" finished-at="2020-09-14T19:06:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="22" started-at="2020-09-14T19:06:07Z" finished-at="2020-09-14T19:06:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="77" started-at="2020-09-14T19:06:07Z" finished-at="2020-09-14T19:06:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="launch" is-config="true" duration-ms="1161" started-at="2020-09-14T19:06:07Z" finished-at="2020-09-14T19:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyDynamicContent()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="verifyDynamicContent" duration-ms="20" started-at="2020-09-14T19:06:08Z" finished-at="2020-09-14T19:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicContent -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.DynamicContent.DynamicContentTest@5ad851c9]" name="tearDwn" is-config="true" duration-ms="74" started-at="2020-09-14T19:06:08Z" finished-at="2020-09-14T19:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.DynamicContent.DynamicContentTest -->
+      <class name="com.qa.Challange.MessageRendered.MessageRenderedTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qa.Challange.MessageRendered.MessageRenderedTest@3c153a1]" name="launch" is-config="true" duration-ms="1261" started-at="2020-09-14T19:06:14Z" finished-at="2020-09-14T19:06:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyRenderedMessages()[pri:0, instance:com.qa.Challange.MessageRendered.MessageRenderedTest@3c153a1]" name="verifyRenderedMessages" duration-ms="190" started-at="2020-09-14T19:06:15Z" finished-at="2020-09-14T19:06:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRenderedMessages -->
+        <test-method status="PASS" signature="tearDwn()[pri:0, instance:com.qa.Challange.MessageRendered.MessageRenderedTest@3c153a1]" name="tearDwn" is-config="true" duration-ms="77" started-at="2020-09-14T19:06:15Z" finished-at="2020-09-14T19:06:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwn -->
+      </class> <!-- com.qa.Challange.MessageRendered.MessageRenderedTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

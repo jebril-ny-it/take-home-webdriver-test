@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.qa.Challange.DragAndDrop.DragAndDropTest"/>
+      <class name="com.qa.Challange.CheckBoxes.CheckAndUnCheckBoxesTest"/>
+      <class name="com.qa.Challange.DynamicControls.DynamicControlsTest"/>
+      <class name="com.qa.Challang.NewWindow.NewWindowTest"/>
+      <class name="com.qa.Challange.IFrame.IFrameTest"/>
+      <class name="com.qa.Challange.DynamicContent.DynamicContentTest"/>
+      <class name="com.qa.Challange.FloatingMenu.FloatingMenuTest"/>
+      <class name="com.qa.Challange.MessageRendered.MessageRenderedTest"/>
+      <class name="com.qa.Challange.Hovers.MouseHoversTest"/>
+      <class name="com.qa.Challange.JSalerts.JavaScriptAlertsTest"/>
+      <class name="com.qa.Challange.Login.LoginTest"/>
+      <class name="com.qa.Challange.DropDown.DropDownTest"/>
+      <class name="com.qa.Challange.JSerror.JavaScriptErrorTest"/>
+      <class name="com.qa.Challange.DynamicLoading.DynamicLoadingTest"/>
+      <class name="com.qa.Challange.FileUpLoader.FileUpLoaderTest"/>
+      <class name="com.qa.Challange.Context_Menu.ContextMenuTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

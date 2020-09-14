@@ -1,0 +1,16 @@
+com/qa/Challang/NewWindow/NewWindowTest.class
+com/qa/Challange/MessageRendered/MessageRenderedTest.class
+com/qa/Challange/CheckBoxes/CheckAndUnCheckBoxesTest.class
+com/qa/Challange/FloatingMenu/FloatingMenuTest.class
+com/qa/Challange/FileUpLoader/FileUpLoaderTest.class
+com/qa/Challange/JSerror/JavaScriptErrorTest.class
+com/qa/Challange/DynamicLoading/DynamicLoadingTest.class
+com/qa/Challange/DynamicControls/DynamicControlsTest.class
+com/qa/Challange/IFrame/IFrameTest.class
+com/qa/Challange/Context_Menu/ContextMenuTest.class
+com/qa/Challange/Hovers/MouseHoversTest.class
+com/qa/Challange/JSalerts/JavaScriptAlertsTest.class
+com/qa/Challange/DropDown/DropDownTest.class
+com/qa/Challange/Login/LoginTest.class
+com/qa/Challange/DragAndDrop/DragAndDropTest.class
+com/qa/Challange/DynamicContent/DynamicContentTest.class
