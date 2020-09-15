@@ -1,7 +1,5 @@
 package com.qa.Challange.FileUpLoader;
 
-import org.testng.annotations.Test;
-import org.testng.AssertJUnit;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -11,7 +9,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.testng.Assert;
+import org.testng.AssertJUnit;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -25,7 +23,7 @@ public class FileUpLoaderTest {
 	String prop_Path = "/src/main/java/com/qa/Challange/Properties/prop.properties";
 
 	String chooseFile = "//input[@name='file']";
-	String filePath = "/target/external_data/Motivation.png";
+	String filePath = 	"/src/test/resources/Motivation.png";
 	
 	String uploadButton = "//input[@class='button']";
 	String uploadConformationMessage = "//h3[contains(text(),'File Uploaded!')]";
